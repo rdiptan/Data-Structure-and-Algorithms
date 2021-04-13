@@ -1,0 +1,5 @@
+Apache~~0~~1~~1001~~Server
+Dell~~1~~2~~5001~~Computer
+HP~~2~~0~~5002~~Computer
+Samsung~~3~~1~~6001~~Mobile
+Cisco~~4~~1~~2001~~Switch
